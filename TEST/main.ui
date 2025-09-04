@@ -1,0 +1,17 @@
+<ui versino = "4.0">
+    <class>MainWindow</class>
+    <widget class="QMainWindow" name = "MainWindos">
+        <property name = "geometry">
+            <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>900</width>
+                <heigh>500</heigh>
+            </rect>
+        </property>
+        <property name ="windowsTitle">
+            <string>Weather App</string>
+        </property>
+    </widget>
+
+</ui>
